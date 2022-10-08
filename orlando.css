@@ -14,5 +14,5 @@ header .header-black {
 }
 header #logotipo {
     position: absolute;
-    top: 20px;
+    top: -20px;
 }
