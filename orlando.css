@@ -168,3 +168,10 @@ header #logotipo {
 	font-family:"OpenSans";
 	font-weight: bold;
 }
+#news h2 {
+	color: #5e2799;
+	font-family: 'OpenSans-Light';
+	font-size: 48px;
+	text-transform: uppercase;
+	text-align: center;
+}
