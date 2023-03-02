@@ -4,7 +4,7 @@
 	font-size: 1em;
 }
 @font-face {
-	font-family: 'OpenSans-Light';
+	font-family: 'OpenSans';
 	src: url("../PROJETO_01/Fonts/Open_Sans/OpenSans-Light.ttf");
 	font-size: 1em;
 }
@@ -198,4 +198,9 @@ header #logotipo {
 	color: #A7A7A7;
 	font-size: 18px;
 	font-family:'OpenSans';
+}
+#estatisticas {
+	background-color: #5E299A;
+	width: 100%;
+	height: 200px;
 }
