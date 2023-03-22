@@ -180,7 +180,7 @@ header #logotipo {
 	text-align: center;
 }
 #news hr {
-	border: #FDE192 solid 2px;
+	border: #FDE192 solid 8px;
 	width: 200px;
 	margin: 0 auto;
 }
@@ -217,4 +217,23 @@ header #logotipo {
 	font-size: 24px;
 	display: block;
 
+}
+#call-to-action {
+	text-align: center;
+}
+#call-to-action h2 {
+	color: #5E2799;
+	font-family: 'OpenSans-Light';
+	font-size: 48px;
+	text-decoration:uppercase;
+	text-align: center;
+}
+#call-to-action hr {
+	border:#FDE192 solid 8px;
+	width: 200px;
+	margin: 0 auto;
+}
+#call-to-action p {
+	margin-top: 60px;
+	margin-bottom: 40px;
 }
