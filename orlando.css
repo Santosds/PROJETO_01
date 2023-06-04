@@ -261,12 +261,13 @@ header #logotipo {
 	max-width: 400px;
 }
 footer .row{
-
+	width: 100%;
 }
 footer .row-cinza-claro{
 	height: 200px;
 	background-color: #171F26;
 }
 footer .row-cinza-escuro{
-
+	height: 60px;
+	background-color: #11171D;
 }
