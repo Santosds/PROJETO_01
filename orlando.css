@@ -260,3 +260,13 @@ header #logotipo {
 	margin: 0 auto;
 	max-width: 400px;
 }
+footer .row{
+
+}
+footer .row-cinza-claro{
+	height: 200px;
+	background-color: #171F26;
+}
+footer .row-cinza-escuro{
+
+}
